@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nahom Habtamu. I’m a Software Engineer from Ethiopia 🇪🇹 who turns ideas into code and bugs into lessons. Always building, always learning—sometimes wondering why it worked. 🚀</h2>
+<h2 align="left">Hi! My name is Nahom Habtamu. I’m a Software Engineer (at least i think so). Always building, always learning—sometimes wondering why it worked.</h2>
 
 ###
 
